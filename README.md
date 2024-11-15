@@ -48,8 +48,8 @@ Alternatively, you can use the Gradle Wrapper included in the project (`./gradle
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/iraphaelfernandes/web_prog_springboot_project.git
+   cd web_prog_springboot_project
    ```
 
 2. **Ensure Java and Gradle are set up**:
